@@ -35,10 +35,10 @@ python main.py
 ## Ekran Görüntüleri
 
 ### Ana Arayüz
-![Ana Arayüz](docs/image/screenshot1.jpg)
+![Ana Arayüz](docs/images/screenshot1.jpg)
 
 ### Başarılı Hata Düzeltme
-![Başarılı Hata Düzeltme](docs/image/screenshot2.jpg)
+![Başarılı Hata Düzeltme](docs/images/screenshot2.jpg)
 
 ## Dokümantasyon
 
